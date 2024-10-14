@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Countries i would like to visit</title>
+</head>
+<body>
+    <h1>My dream travel destinations</h1>
+    <ol>
+        <li>Japan
+            <meta name="Japan" content="i would love to experience japanese culture">
+            <img scr="https://www.celebritycruises.com/blog/content/uploads/2021/03/what-is-japan-known-for-mt-fuji-hero.jpg "
+            <a href="https://www.gotokyo.org/en/index.html"> 
+            </li>
+        <li>Brazil 
+            <meta name="Rio Brazil" content="blah blah blah">
+            <img src="https://i.assetzen.net/i/LuFqtymEFuJq/w:1920/h:/q:70.jpg " 
+            <a href=" https://www.britannica.com/place/Rio-de-Janeiro-Brazil"
+        </li> 
+        <li>Switzerland
+            <meta name="Switzerland" content="blah blah blah">
+            <img src="https://switzerland-tour.com/storage/media/Geneva/Geneva-nights-Switzerland.jpg "
+            <a href="https://www.geneve.com/en/ "
+        </li> 
+        <li> Amalfi Coast italy 
+            <meta name="Amalfi coast italy" content="blah blah blah">
+            <img src="https://lp-cms-production.imgix.net/2024-04/shutterstock2196433383.jpg "
+            <a href="https://www.lonelyplanet.com/italy/amalfi-coast "
+        </li> 
+    
+
+    </ol>
+</body>
